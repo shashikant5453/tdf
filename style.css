@@ -203,7 +203,7 @@ a:hover {
 	width: 20px;
 	height: 20px;
 	margin: 5px 12px 0 0;
-	background: url(../images/ico_header.png) no-repeat;
+	background: url(ico_header.png) no-repeat;
 }
 
 #header .right-links span.ico-account {
@@ -233,7 +233,7 @@ a:hover {
 	float: left;
 	cursor: pointer;
 	text-indent: -9999em;
-	background: url(../images/tdf-logo.png) no-repeat;
+	background: url(tdf-logo.png) no-repeat;
 }
 
 
@@ -285,7 +285,7 @@ header
 	content: "";
 	margin: 13px 13px 0 15px;
 	float: left;
-	background: url(../images/ico_arrow.png) no-repeat;
+	background: url(ico_arrow.png) no-repeat;
 	width: 9px;
 	height: 5px;
 }
@@ -476,7 +476,7 @@ header
 	right: 0;
 	margin: 11px 17px;
 	top: 0;
-	background: url(../images/ico_arrows.png) no-repeat 100% 0;
+	background: url(ico_arrows.png) no-repeat 100% 0;
 	width: 8px;
 	height: 16px;
 	display: block;
@@ -499,7 +499,7 @@ header
 	left: 0;
 	margin: 11px 17px;
 	top: 0;
-	background: url(../images/ico_arrows.png) no-repeat;
+	background: url(ico_arrows.png) no-repeat;
 	width: 8px;
 	height: 16px;
 	display: block;
@@ -825,7 +825,7 @@ h1 {
 	margin: auto;
 	display: block;
 	height: 27px;
-	background: #666668 url(../images/ico_cross.png) no-repeat 50% 50%;
+	background: #666668 url(ico_cross.png) no-repeat 50% 50%;
 }
 
 .cart-table .ico-del:hover{
@@ -855,7 +855,7 @@ h1 {
 	right: 13px;
 	width: 10px;
 	height: 5px;
-	background: url(../images/ico_down.png) no-repeat;
+	background: url(ico_down.png) no-repeat;
 }
 
 .crf-sm li {
@@ -1045,7 +1045,7 @@ h1 {
 
 .pagination span {
 	display: inline-block;
-	background: url(../images/ico_pagination.png) no-repeat;
+	background: url(ico_pagination.png) no-repeat;
 	width: 30px;
 	height: 30px;
 	margin: 1px;
@@ -1141,7 +1141,7 @@ h1 {
 }
 
 #sidebar label.checked:before {
-	background: #222 url(../images/ico_cross.png) no-repeat 50% 50%;
+	background: #222 url(ico_cross.png) no-repeat 50% 50%;
 }
 
 #sidebar label {
@@ -1181,7 +1181,7 @@ h1 {
 
 #footer {
 	clear: both;
-	background: #222224 url(../images/bg_footer.png);
+	background: #222224 url(bg_footer.png);
 	padding: 27px 0 0;
 	color: #a5a5aa;
 	font-size: 14px;
@@ -1203,7 +1203,7 @@ h1 {
 
 #footer .ico {
 	display: inline-block;
-	background: url(../images/ico_footer.png);
+	background: url(ico_footer.png);
 	width: 19px;
 	height: 19px;
 	margin: -5px 10px -5px 0;
@@ -1268,7 +1268,7 @@ h1 {
 	top: 4px;
 	right: 4px;
 	border: 0;
-	background: #b8bcbe url(../images/ico_plus.png) no-repeat 50% 50%;
+	background: #b8bcbe url(ico_plus.png) no-repeat 50% 50%;
 }
 
 #footer form button:hover{
@@ -1397,48 +1397,48 @@ h1 {
 @media (-webkit-min-device-pixel-ratio: 2), (min-reso#lution: 192dpi) { 
 
 	#logo {
-		background-image: url(../images/tdf-logo.png);
+		background-image: url(tdf-logo.png);
 		background-size: contain;
 	}
 
 	#header .right-links span {
-		background-image: url(../images/ico_header@2x.png);
+		background-image: url(ico_header@2x.png);
 		background-size: 60px 20px;
 	}
 
 	#footer .ico {
-		background-image: url(../images/ico_footer@2x.png);
+		background-image: url(ico_footer@2x.png);
 		background-size: 19px 114px;
 	}
 
 	#breadcrumbs li + li:before {
-		background-image: url(../images/ico_arrow@2x.png);
+		background-image: url(ico_arrow@2x.png);
 		background-size: cover;
 	}
 
 	#footer form button {
-		background-image: url(../images/ico_plus@2x.png);
+		background-image: url(ico_plus@2x.png);
 		background-size: 16px 16px;
 	}
 
 	#footer {
-		background-image: url(../images/bg_footer@2x.png);
+		background-image: url(bg_footer@2x.png);
 		background-size: 30px 30px;
 	}
 
 	.pagination span {
-		background-image: url(../images/ico_pagination@2x.png);
+		background-image: url(ico_pagination@2x.png);
 		background-size: 60px 30px;
 	}
 
 	#sidebar label.checked:before {
-		background-image: url(../images/ico_cross@2x.png);
+		background-image: url(ico_cross@2x.png);
 		background-size: 11px 11px;
 	}
 
 	.last-products .bx-next:after,
 	.last-products .bx-prev:after {
-		background-image: url(../images/ico_arrows@2x.png);
+		background-image: url(ico_arrows@2x.png);
 		background-size: 16px 16px;
 	}
 }
@@ -1700,7 +1700,7 @@ h1 {
 		top: 20px;
 		right: 10px;
 		cursor: pointer;
-		background: url(../images/btn_mobile_menu.png) no-repeat 50% 50%;
+		background: url(btn_mobile_menu.png) no-repeat 50% 50%;
 	}
 
 	#menu ul {
